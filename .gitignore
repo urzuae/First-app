@@ -5,4 +5,3 @@ tmp/**/*
 db/*.sqlite3
 *.orig
 .rake_tasks~
-mafia.*
